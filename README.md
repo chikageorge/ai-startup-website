@@ -255,6 +255,12 @@ This guide will walk you through the basics of using GitHub, including navigatin
     ```bash
    git pull origin main
    ```
-   ![Git Status](images/comment-to-pull-request3.png)
+---
+## Finalizing Jerry's Contribution
 
+### Steps:
+1. **Push the updated version to giihub**:
+   ```bash
+   git push origin add-contact-info
+   ```
 ---
