@@ -119,10 +119,12 @@ This guide will walk you through the basics of using GitHub, including navigatin
    ```bash
    git checkout add-contact-info
    ```
+    ![Git Status](images/check-out-add-contact.png)
 2. **Pull the changes from the main branch**
     ```bash
    git pull origin main
    ```
+    ![Git Status](images/pull-request-to-update-add-contact.png)
 ---
 ## Finalizing Jerry's Contribution
 
