@@ -137,4 +137,5 @@ This guide will walk you through the basics of using GitHub, including navigatin
    ```bash
    git push origin add-contact-info
    ```
+   ![Git Status](images/resulving-conflict.png)
 ---
