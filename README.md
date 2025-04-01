@@ -123,6 +123,7 @@ This guide will walk you through the basics of using GitHub, including navigatin
     ```bash
    git pull origin main
    ```
+   ![Git Status](images/pull-request-to-update-add-contact.png)
 ---
 ## Finalizing Jerry's Contribution
 
